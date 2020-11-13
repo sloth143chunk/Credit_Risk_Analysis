@@ -9,27 +9,27 @@
 
 -	Oversampling:
 -	Accuracy: 66%, Precision: High Risk: 1%, Low Risk: %100, Recall: HR: 66%, LR: 67%
-![Oversampling](/images/Oversampling.PNG)
+![Oversampling](/Images/Oversampling.PNG)
 
 -	SMOTE Oversampling:
 -	Accuracy: 63%, Precision: High Risk: 1%, Low Risk: %100, Recall: HR: 62%, LR: 64%
-![SMOTE Oversampling](/images/SMOTE_Oversampling.PNG)
+![SMOTE Oversampling](/Images/SMOTE_Oversampling.PNG)
 
 -	Undersampling:
 -	Accuracy: 59%, Precision: High Risk: 1%, Low Risk: %100, Recall: HR: 61%, LR: 57%
-![Undersampling](/images/Undersampling.PNG)
+![Undersampling](/Images/Undersampling.PNG)
 
 -	Combination Sampling:
 -	Accuracy: 64%, Precision: High Risk: 1%, Low Risk: %100, Recall: HR: 70%, LR: 57%
-![Combination Sampling](/images/Combination_Sampling.PNG)
+![Combination Sampling](/Images/Combination_Sampling.PNG)
 
 -	Balanced Random Forest Classifier:
 -	Accuracy: 78%, Precision: High Risk: 4%, Low Risk: %100, Recall: HR: 65%, LR: 90%
-![Balanced Random Forest](/images/Balanced_Random_Forest_Classifier.PNG)
+![Balanced Random Forest](/Images/Balanced_Random_Forest_Classifier.PNG)
 
 -	Easy Ensemble AdaBoost Classifier
 -	Accuracy: 92%, Precision: High Risk: 5%, Low Risk: %100, Recall: HR: 93%, LR: 90%
-![Easy Ensemble AdaBoost](/images/Easy_Ensemeble_AdaBoost_Classifier.PNG)
+![Easy Ensemble AdaBoost](/Images/Easy_Ensemeble_AdaBoost_Classifier.PNG)
 
 
 ## Summary
