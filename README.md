@@ -39,4 +39,4 @@ The Easy Ensemble learning model makes predictions based of several different mo
 
 ## Resources
 - Data Source: LoanStats_2019Q1.csv
-- Software: Jupyter notebook, Machine Learning Environment
+- Tools: Jupyter notebook, Python (sklearn, imblearn, collections, numpy, pandas)
