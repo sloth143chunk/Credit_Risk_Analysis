@@ -29,7 +29,7 @@
 
 -	Easy Ensemble AdaBoost Classifier
 -	Accuracy: 92%, Precision: High Risk: 5%, Low Risk: %100, Recall: HR: 93%, LR: 90%
-![Easy Ensemble AdaBoost](/Images/Easy_Ensemeble_AdaBoost_Classifier.PNG)
+![Easy Ensemble AdaBoost](/Images/Easy_Ensmeble_AdaBoost_Classifier.PNG)
 
 
 ## Summary
